@@ -1,5 +1,6 @@
 # ppt
 Pedra papel e tesoura. um jogo multiplayer que roda direto no seu navegador
+<img width="1536" height="1024" alt="Imagem Jogo Github Jan 11 2026" src="https://github.com/user-attachments/assets/e38ba9a7-fc74-46a8-a894-680b7ed2858f" />
 
 
 Uma ideia originalmente lançada no grupo do WhatsApp (SudoMagidex) que virou um jogo real
